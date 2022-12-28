@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ALewandowska-sys, I'm study IT
-- 🌱 I’m currently learning Java, Flutter
+- 👋 Hi, I’m @ALewandowska-sys, I study IT
+- 🌱 I’m currently learning Java and Flutter
 
 <!---
 - 👀 I’m interested in ...
